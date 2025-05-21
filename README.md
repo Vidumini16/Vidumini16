@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidumini16&label=Profile%20views&color=0e75b6&style=flat" alt="vidumini16" /> </p>
 
-- 🔭 I’m currently working on OOP with Java
+- 🔭 I’m currently working on full stack project
 
 - 👯 I’m an Undergraduate at **SLIIT**
 
-- 💬 Ask me about **Web Development |ITP**
+- 💬 Ask me about **Web Development |ITPM**
 
 - 📫 How to reach me **viduminipavithra@gmail.com**
 
